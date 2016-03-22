@@ -1,1 +1,2 @@
 # mydoodleapp
+https://github.com/SueSmith/android-drawing-app/blob/master/README.md The link above was my main inspiration on the design and the needed features. The addition feature I replaced the save with and made a shape creating function. For this function i researched and read through the andorid shape API. To use my program i ask that you go into the  C:\Users\TJ\Desktop\Draw434\app\src\main\java\com\example\tj\draw434 path to see my main two java functions. This will allow you to run the program, though you will need to copy over the draw-able features ! 
